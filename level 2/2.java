@@ -1,7 +1,7 @@
 get the parent node of a node in a binary tree arranged in a postorder form
 
 
-*import java.util.*;
+import java.util.*;
 public class Solution1 {
     public static int[] answer(int h,int[] arr){
         int[] answer=new int[arr.length];
