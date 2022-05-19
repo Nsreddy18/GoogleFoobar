@@ -26,4 +26,4 @@ class temp{
     }
 }
 
-/*The above solution is very slow and might not run for a few test cases*/
+/*The above solution is very slow(Brute Force Solution) and will not run for larger test cases*/
